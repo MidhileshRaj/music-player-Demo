@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:music_player/view/settings.dart';
 
 class MyDrawer extends StatelessWidget {
   const MyDrawer({super.key});

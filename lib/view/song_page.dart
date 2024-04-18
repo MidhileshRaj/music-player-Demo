@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:music_player/components/neo_box.dart';
-import 'package:music_player/provider/playlist_provider.dart';
+import 'package:music_player/controller/playlist_provider.dart';
+import 'package:music_player/utils/neo_box.dart';
 import 'package:provider/provider.dart';
 
 class SongPage extends StatelessWidget {
